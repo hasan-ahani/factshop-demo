@@ -1,0 +1,35 @@
+/*
+Theme Name: FactShop
+Theme URI: https://hasanart.ir/theme/factshop/
+Author: Hasan Ahani
+*/
+@font-face {
+	font-family: iranyekan;
+	font-style: normal;
+	font-weight: bold;
+	src: url('../fonts/iranyekan/fanum/eot/iranyekanwebboldfanum.eot');
+	src: url('../fonts/iranyekan/fanum/eot/iranyekanwebboldfanum.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('../fonts/iranyekan/fanum/woff/iranyekanwebboldfanum.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('../fonts/iranyekan/fanum/ttf/iranyekanwebboldfanum.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: iranyekan;
+	font-style: normal;
+	font-weight: 300;
+	src: url('../fonts/iranyekan/fanum/eot/iranyekanweblightfanum.eot');
+	src: url('../fonts/iranyekan/fanum/eot/iranyekanweblightfanum.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('../fonts/iranyekan/fanum/woff/iranyekanweblightfanum.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('../fonts/iranyekan/fanum/ttf/iranyekanweblightfanum.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: iranyekan;
+	font-style: normal;
+	font-weight: normal;
+	src: url('../fonts/iranyekan/fanum/eot/iranyekanwebregularfanum.eot');
+	src: url('../fonts/iranyekan/fanum/eot/iranyekanwebregularfanum.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('../fonts/iranyekan/fanum/woff/iranyekanwebregularfanum.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('../fonts/iranyekan/fanum/ttf/iranyekanwebregularfanum.ttf') format('truetype');
+}
+body,h1,h2,h3,h4,h5,h6{font-family:iranyekan !important;}

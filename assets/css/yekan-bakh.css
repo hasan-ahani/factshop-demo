@@ -1,0 +1,49 @@
+@font-face {
+    font-family: Yekan-Bakh;
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/yekanbakh/Yekan_Bakh_EN_04_Regular.eot);
+    src: url(../fonts/yekanbakh/Yekan_Bakh_EN_04_Regular.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/yekanbakh/Yekan_Bakh_EN_04_Regular.woff) format('woff'), url(../fonts/yekanbakh/Yekan_Bakh_EN_04_Regular.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: Yekan-Bakh-fa-num;
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/yekanbakh/number/Yekan_Bakh_Number_FA_04_Regular.eot);
+    src: url(../fonts/yekanbakh/number/Yekan_Bakh_Number_FA_04_Regular.eot?#iefix) format('embedded-opentype'), url(../fonts/yekanbakh/number/Yekan_Bakh_Number_FA_04_Regular.woff) format('woff'), url(../fonts/yekanbakh/number/Yekan_Bakh_Number_FA_04_Regular.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: Yekan-Bakh-fa-num;
+    font-style: normal;
+    font-weight: 700;
+    src: url(../fonts/yekanbakh/number/Yekan_Bakh_Number_FA_06_Bold.eot);
+    src: url(../fonts/yekanbakh/number/Yekan_Bakh_Number_FA_06_Bold.eot?#iefix) format('embedded-opentype'), url(../fonts/yekanbakh/number/Yekan_Bakh_Number_FA_06_Bold.woff) format('woff'), url(../fonts/yekanbakh/number/Yekan_Bakh_Number_FA_06_Bold.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: Yekan-Bakh;
+    font-style: normal;
+    font-weight: 700;
+    src: url(../fonts/yekanbakh/Yekan_Bakh_EN_06_Bold.eot);
+    src: url(../fonts/yekanbakh/Yekan_Bakh_EN_06_Bold.eot?#iefix) format('embedded-opentype'), url(../fonts/yekanbakh/Yekan_Bakh_EN_06_Bold.woff) format('woff'), url(../fonts/yekanbakh/Yekan_Bakh_EN_06_Bold.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: Yekan-Bakh;
+    font-style: normal;
+    font-weight: 100;
+    src: url(../fonts/yekanbakh/Yekan_Bakh_EN_01_Hairline.eot);
+    src: url(../fonts/yekanbakh/Yekan_Bakh_EN_01_Hairline.eot?#iefix) format('embedded-opentype'), url(../fonts/yekanbakh/Yekan_Bakh_EN_01_Hairline.woff) format('woff'), url(../fonts/yekanbakh/Yekan_Bakh_EN_01_Hairline.ttf) format('truetype')
+}
+
+@font-face {
+    font-family: Yekan-Bakh;
+    font-style: normal;
+    font-weight: 900;
+    src: url(../fonts/yekanbakh/Yekan_Bakh_EN_08_Fat.eot);
+    src: url(../fonts/yekanbakh/Yekan_Bakh_EN_08_Fat.eot?#iefix) format('embedded-opentype'), url(../fonts/yekanbakh/Yekan_Bakh_EN_08_Fat.woff) format('woff'), url(../fonts/yekanbakh/Yekan_Bakh_EN_08_Fat.ttf) format('truetype')
+}
+body,h1,h2,h3,h4,h5,h6{font-family:Yekan-Bakh-fa-num,Yekan-Bakh!important;}
